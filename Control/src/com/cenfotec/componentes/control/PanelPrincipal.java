@@ -32,7 +32,7 @@ public class PanelPrincipal extends javax.swing.JPanel {
 
         setPreferredSize(new java.awt.Dimension(200, 100));
 
-        jButton1.setText("jButton1");
+        jButton1.setText("Oprime!");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
         this.setLayout(layout);
