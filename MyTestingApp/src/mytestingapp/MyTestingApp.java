@@ -16,6 +16,8 @@ public class MyTestingApp {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        MyForm myForm = new MyForm();
+        myForm.setVisible(true);
     }
     
 }
